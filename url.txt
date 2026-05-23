@@ -1,1 +1,1 @@
-https://rhythm-conclusions-numerous-visibility.trycloudflare.com
+https://api.trycloudflare.com
